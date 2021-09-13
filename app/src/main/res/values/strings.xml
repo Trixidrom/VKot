@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">VKot</string>
+    <string name="hint_search_field">введите ID</string>
+    <string name="button_name">Go</string>
+    <integer name="com_vk_sdk_AppId">7949696</integer>
 </resources>
