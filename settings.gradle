@@ -1,0 +1,2 @@
+rootProject.name = "VKot"
+include ':app'
